@@ -19,8 +19,7 @@ Generates .pdf files of random graph analysis questions for every student includ
   - clone this repository
   - in terminal or command-prompt run the following in this project directory
   ```
-  javac ./*.java
-  java MathGraphQuestionMater
+  java ./bin/MainClass
   ```
   - follow input guidelines
   
