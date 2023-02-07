@@ -26,4 +26,4 @@ Generates .pdf files of random graph analysis questions for every student includ
   
 ### Created by
 
-Kiarash Majfi
+Kiarash Majdi
